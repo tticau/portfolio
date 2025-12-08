@@ -63,7 +63,7 @@ A full end-to-end environment combining:
 ## 📄 My CV
 You can view my full Curriculum Vitae here:
 
-👉 **[Open CV](./about-me/cv.md)**
+👉 **[Open CV](./about-me/README.md)**
 
 ---
 
