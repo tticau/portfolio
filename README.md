@@ -13,41 +13,46 @@ This portfolio is organized by key DevOps domains, each containing practical pro
 - **Terraform modules** for AWS, OpenStack, Kubernetes clusters
 - **Ansible roles & playbooks** for automation, hardening, and provisioning
 - IaC examples across cloud and on-prem workflows  
-  👉 `./iac/`
+  👉 [./iac/](./iac/)
 
 ### ☸️ Kubernetes & Containerization
-- Production-ready manifests, Kustomize, and Helm charts
+- Production-ready manifests, Kustomize configurations, and Helm charts
 - Cluster configuration patterns (EKS, K3s, on-prem)
 - Deployment standards for microservices  
-  👉 `./kubernetes/`  
-  👉 `./docker/`
+  👉 [./kubernetes/](./kubernetes/)  
+  👉 [./docker/](./docker/)
 
 ### 🛠️ CI/CD Pipelines
 - GitLab CI, Jenkins pipelines, ArgoCD GitOps examples
-- Pipelines for Docker builds, Terraform, Helm deployments  
-  👉 `./ci-cd-pipelines/`
+- Pipelines for Docker images, Terraform plans, Helm deployments  
+  👉 [./ci_cd_pipelines/](./ci_cd_pipelines/)
 
-### 🌩️ Cloud & OpenStack
-- Automation examples for OpenStack compute, networking, Heat templates
-- AWS IaC examples and cloud patterns  
-  👉 `./openstack/`  
-  👉 `./cloud/`
+### 🌩️ Cloud
+- AWS infrastructure components (VPC, EC2, IAM, S3)
+- Cloud automation workflows using Terraform & IaC patterns
+- Cross-cloud architecture notes and reusable components  
+  👉 [./cloud/](./cloud/)
+
+### 🌐 OpenStack
+- Automation for compute, networking, storage
+- Cluster design patterns and provisioning workflows  
+  👉 [./openstack/](./openstack/)
 
 ### 📡 Monitoring & Observability
-- Prometheus rules, Grafana dashboards, Loki/ELK pipelines
-- Zabbix templates, tuning, low-level discovery  
-  👉 `./monitoring-observability/`
+- Prometheus alert rules, Grafana dashboards, Loki/ELK pipelines
+- Zabbix templates, tuning, discovery rules  
+  👉 [./observability/](./observability/)
 
 ### ♻️ SRE & Reliability
 - Incident response templates
-- SLO/SLA examples
+- SLO/SLA definitions and service metrics
 - Chaos engineering experiments  
-  👉 `./sre/`
+  👉 [./sre/](./sre/)
 
 ### 🤖 Automation & Scripting
-- Bash tooling, Python helper utilities
+- Bash tooling and Python helper utilities
 - Log processors, backup scripts, troubleshooting flows  
-  👉 `./automation-scripts/`
+  👉 [./automation_scripts/](./automation_scripts/)
 
 ### 🧩 Microservices Demo
 A full end-to-end environment combining:
@@ -56,14 +61,23 @@ A full end-to-end environment combining:
 - Docker
 - Kubernetes
 - Observability  
-  👉 `./microservices-demo/`
+  👉 [./microservices/](./microservices/)
+
+### 📘 Knowledge Base
+Documentation, notes, troubleshooting guides, architecture diagrams  
+👉 [./knowledge_base/](./knowledge_base/)
+
+### 🔐 Security
+Security practices, DevSecOps tooling, vulnerability scanning examples  
+👉 [./security/](./security/)
+
 
 ---
 
 ## 📄 My CV
 You can view my full Curriculum Vitae here:
 
-👉 **[Open CV](./about-me/README.md)**
+👉 **[Open CV](./about_me/README.md)**
 
 ---
 
