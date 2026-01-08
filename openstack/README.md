@@ -10,9 +10,9 @@ Explain briefly what this section will showcase:
 
 ## 📂 Planned Structure
 This folder will eventually include:
-- `subfolder-1/` – description
-- `subfolder-2/` – description
-- `subfolder-3/` – description
+- 👉[3-tier-networking-lab](./3-tier-networking-lab/README.md) – A complete 3-tier network implementation using OpenStack Neutron, including routers, security groups, floating IPs, and traffic validation.
+- `networking-experiments/` – Isolated tests and experiments focused on Neutron behavior, routing, NAT, and security group rules.
+- `deployment-notes/` – Notes and observations related to deploying and operating OpenStack using Kolla-Ansible in a lab environment.
 
 ## 🚀 Future Content
 Some of the items that will be added:
