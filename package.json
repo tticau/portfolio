@@ -1,0 +1,9 @@
+{
+  "name": "devops-portfolio",
+  "version": "1.0.0",
+  "description": "Validation tests for the DevOps portfolio repository structure.",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  }
+}
